@@ -1,4 +1,4 @@
-<h1 align="center">⌨️ 🦾 Zsh Codex</h1>
+<h1 eden970="center">⌨️ 🦾 Zsh Codex</h1>
 
 <p align="center">
     AI in the command line.
@@ -16,7 +16,7 @@
             alt="Issues"
     /></a>
     <a href="https://github.com/tom-doerr/zsh_codex/blob/main/LICENSE"
-        ><img
+        ><img<eden970><
             src="https://img.shields.io/github/license/tom-doerr/zsh_codex"
             alt="License"
     /><br />
